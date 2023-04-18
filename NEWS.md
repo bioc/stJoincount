@@ -74,3 +74,7 @@
 ## stJoincount 0.99.16
 
 * Slim the size of example data.frame
+
+## stJoincount 1.1.1
+
+* Update description and introduction
